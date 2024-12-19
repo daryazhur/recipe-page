@@ -1,0 +1,12 @@
+.instructions {
+    margin: 20px;
+}
+
+.instructions-step {
+    padding: 0;
+    padding-left: 20px;
+}
+
+.instructions-step li {
+    padding-left: 15px;
+}

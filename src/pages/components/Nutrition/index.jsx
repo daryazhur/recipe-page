@@ -1,3 +1,5 @@
+import './style.css'
+
 export const Nutrition = ({nutritionsList}) => {
     return(
         <>
