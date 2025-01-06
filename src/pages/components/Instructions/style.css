@@ -1,5 +1,15 @@
 .instructions {
     margin: 20px;
+    margin-block: 40px;
+}
+
+.instructions-name::before {
+    content: "";
+    display: block;
+    background-color: var(--stone150);
+    max-width: 1024px;
+    height: 1px;
+    margin-bottom: 30px;
 }
 
 .instructions-step {

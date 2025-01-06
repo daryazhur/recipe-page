@@ -4,7 +4,7 @@ export const Instructions = ({ instruction }) => {
     return(
         <>
             <section className="instructions">
-                <h2>Instructions</h2>
+                <h2 className='instructions-name'>Instructions</h2>
                 <ol className='instructions-step'>
                     {instruction.map((stepInstruction) => (
                         <li key={stepInstruction.step}>            
