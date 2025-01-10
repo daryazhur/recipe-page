@@ -11,3 +11,9 @@
 .ingredients-item li {
     padding-left: 15px;
 }
+
+@media(min-width: 650px) {
+    .ingredients {
+        margin: 30px;
+    }
+}

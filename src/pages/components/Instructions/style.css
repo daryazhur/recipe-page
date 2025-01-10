@@ -20,3 +20,9 @@
 .instructions-step li {
     padding-left: 15px;
 }
+
+@media(min-width: 650px) {
+    .instructions {
+        margin: 30px;
+    }
+ }

@@ -25,3 +25,9 @@
     padding-inline: 30px;
     padding-block: 10px;
 }
+
+@media(min-width: 650px) {
+    .nutrition {
+        margin: 30px;
+    }
+}

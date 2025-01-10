@@ -7,3 +7,16 @@
 .header {
     margin: 20px;
 }
+
+@media(min-width: 650px) {
+    .img-omelette {
+        width: 590px;
+        margin: 30px;
+        margin-bottom: 0;
+        border-radius: 20px;
+    }
+
+    .header {
+        margin: 30px;
+    }
+}
